@@ -1,0 +1,12 @@
+{
+  "name": "T&G Uniform Mockup Builder",
+  "description": "A comprehensive tool for building and configuring specialized uniform mockups for T&G and partner companies, featuring product customization, color selection, and direct WhatsApp integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Product Configuration",
+    "Voice-to-Text",
+    "WhatsApp Integration"
+  ]
+}
